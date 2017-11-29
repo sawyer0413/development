@@ -1,4 +1,4 @@
-# development
+# Development
 Development root repository
 
 For Bill Sawyer - http://technicaltrainer.org
